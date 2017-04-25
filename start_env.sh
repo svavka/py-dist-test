@@ -1,6 +1,6 @@
 #init
-#pythom -m venv venv
-#chmod +x venv/bin/activate
+python -m venv venv
+chmod +x venv/bin/activate
 
 #activate
 echo 'for exit run deactivate'
